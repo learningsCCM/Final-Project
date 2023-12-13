@@ -11,8 +11,8 @@ For my final project I selected to do data analysis for a fictitious client, Kev
 
 <b>Tools Used</b>
 Two Datasets used – Book reviews/ratings from Kaggle:
-    o	Amazon Top 50 Bestselling Books 2009 - 2019 (https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019/data)
-    o	Goodreads-books (https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks/data)  
+- Amazon Top 50 Bestselling Books 2009 - 2019 (https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019/data)
+- Goodreads-books (https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks/data)  
     
 <b>Other Tools Used</b>
     •	Excel – Initial peek at the data and some column shift adjustments
